@@ -1,0 +1,16 @@
+export const TaskTypes = {
+    STUDY: '#4CAF50',
+    WORK: '#2196F3',
+    PERSONAL: '#FF9800',
+    HEALTH: '#F44336',
+    SHOPPING: '#FFC107',
+    MEETING: '#9C27B0',
+    EXERCISE: '#8BC34A',
+    FAMILY: '#3F51B5',
+    FINANCE: '#009688',
+    CLEANING: '#607D8B',
+    HOBBY: '#FF5722',
+    PROJECT: '#795548',
+    ADMIN: '#607D8B',
+    OTHER: '#9E9E9E',
+}
